@@ -1,0 +1,9 @@
+Name,Processing Time (in ms),Exchange
+NE1,5,Exchange1
+NE2,2,
+NE3,4,Exchange4
+NE4,2,
+NE5,4,Exchange3
+NE6,8,Exchange2
+NE7,9,Exchange1
+NE8,2,Exchange4

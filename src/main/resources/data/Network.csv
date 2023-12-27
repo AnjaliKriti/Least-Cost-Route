@@ -1,0 +1,9 @@
+Source Network Element,Link,Destination Network Element
+NE1,Link12,NE2
+NE1,Link17,NE7
+NE2,Link23,NE3
+NE2,Link25,NE5
+NE2,Link27,NE7
+NE3,Link34,NE4
+NE6,Link64,NE4
+NE7,Link78,NE8
